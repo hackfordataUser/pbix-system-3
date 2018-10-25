@@ -13,7 +13,6 @@
 
 #### Суть bi
 
-
-
+![](\imgs\SnagitTutorialImage.png)
 
 
