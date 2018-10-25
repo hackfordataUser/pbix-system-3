@@ -13,6 +13,6 @@
 
 #### Суть bi
 
-![](\imgs\SnagitTutorialImage.png)
+![](/imgs/SnagitTutorialImage.png)
 
 
